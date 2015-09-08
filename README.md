@@ -11,8 +11,9 @@ Today we're going to be learning all about sessions and how they work!
 ### Instructions
 - Clone this repository down to your local directory.
 - Type in `bundle install` in your terminal
+- Run `shotgun` and follow along in your browser. 
 - Follow along in the `README`
-- As you go through each exercise, type in `rspec` to ensure that your tests pass
+- As you go through each exercise, type in `learn` to ensure that your tests pass (you can quit shotgun, or run learn in a different terminal window)
 
 ### Introduction to Sessions
 
@@ -29,7 +30,7 @@ This is a simple lab that will go through the basic implementation of a session 
 A session cookie is simply a text file that consists of key-value pairs. In a web application, a session cookie is represented by a hash that is called `session`. So, for example, if we have a key in our sessions hash that is called "happiness", and we set it equal to the number 3.14, it will look like this:
 
 ```ruby
-session = {
+{
   'happiness' => 3.14
 }
 ```
