@@ -46,4 +46,4 @@ In our second exercise, we will navigate to the `/second_exercise` path. As in t
 ### Resources
 - [Primer on Cookie-Based Sessions](http://www.allaboutcookies.org/cookies/session-cookies-used-for.html)
 
-<a href='https://learn.co/lessons/hs-sinatra-sessions' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-sinatra-sessions' title='Sinatra Sessions'>Sinatra Sessions</a> on Learn.co and start learning to code for free.</p>
